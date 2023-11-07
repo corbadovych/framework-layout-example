@@ -1,6 +1,6 @@
 package framework_layout_example
 
-import "github.com/corbado/corbado-go/pkg/sdk"
+import "github.com/corbadovych/framework-layout-example/pkg/sdk"
 
 type SDK interface {
 	BuildClientInfo(remoteAddress string) (*sdk.ClientInfo, error)

@@ -1,4 +1,4 @@
-module github.com/corbado/corbado-go
+module github.com/corbadovych/framework-layout-example/pkg/fasthttp
 
 go 1.21
 
